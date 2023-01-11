@@ -1,0 +1,93 @@
+body {
+    font-family: Calibri;
+    background-color: rgb(230, 235, 236);
+  }
+
+  div.row {
+    max-width: 1200px;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  header {
+    padding: 20px;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  img.avatar_avatar-circle{
+    width: 80%;
+  }
+
+  div.portrait-title{
+    font-size: 20px;
+    text-align: center;
+    width : 82%;
+    color: rgb(89, 131, 248);
+
+  }
+  #location{
+    font-size: 16px;
+    color: rgb(22, 25, 34);
+
+  }
+
+  h3{
+    font-size: 18px;
+  }
+
+  h4{
+    font-size: 15px;
+  }
+
+  div.article-style{
+    padding: 16px;
+    width : 88%;
+  }
+
+  
+  div.col-md-5{
+    padding: 15px;
+    width: 55%;
+  }
+  
+  div.col-md-7 {
+    padding: 12px;
+    width: 50%;
+  }
+
+  #person-email{
+    font-size: 9px;
+  }
+
+  div.col3rd{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+ 
+  }
+
+  div.section-subheading{
+    font-size: 22px;
+    font-weight: bolder;
+
+  }
+
+  p.institution{
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(135, 134, 134);
+
+  }
+
+  div.description{
+    line-height: 9px;
+  }
+
+  ul.ul-interests{
+    line-height: 150%;
+  }
